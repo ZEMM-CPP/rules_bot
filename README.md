@@ -9,11 +9,11 @@ Ce bot permet d'envoyer un embed contenant le règlement du serveur avec un bout
 3. Modifiez le fichier `config.json` avec vos informations:
    ```json
    {
-     "token": "VOTRE_TOKEN_BOT_DISCORD",
-     "clientId": "ID_DE_VOTRE_BOT",
-     "guildId": "ID_DE_VOTRE_SERVEUR",
-     "authorizedRoleId": "ID_DU_ROLE_AUTORISE",
-     "rulesRoleId": "ID_DU_ROLE_A_DONNER"
+     "token": "",
+     "clientId": "",
+     "guildId": "",
+     "authorizedRoleId": "",
+     "rulesRoleId": ""
    }
    ```
 4. Démarrez le bot avec `npm start`
